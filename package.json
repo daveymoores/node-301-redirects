@@ -1,0 +1,27 @@
+{
+  "name": "node-301-redirects",
+  "version": "1.0.0",
+  "description": "A small package for reading apache and nginx .txt files and implementing 301 redirects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveymoores/node-301-redirects.git"
+  },
+  "keywords": [
+    "node",
+    "301",
+    "redirects"
+  ],
+  "author": "David Jonathan Moores <daveymoores@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveymoores/node-301-redirects/issues"
+  },
+  "homepage": "https://github.com/daveymoores/node-301-redirects#readme",
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
